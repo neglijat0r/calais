@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+YOLOv8 INT8 TFLite Inference Example (#7317)
