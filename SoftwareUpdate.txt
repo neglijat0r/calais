@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Hold failed upload metrics and upload with next upload metrics (#8513)
