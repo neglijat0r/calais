@@ -1,1 +1,1 @@
-Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
