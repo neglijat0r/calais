@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+Expand Model method type hinting (#8279)
