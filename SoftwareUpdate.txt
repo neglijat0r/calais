@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Fix Multi-GPU resume bug (#7328)
