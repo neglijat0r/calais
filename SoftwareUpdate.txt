@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Optimize function calls to method calls (#8507)
